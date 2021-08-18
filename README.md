@@ -7,6 +7,8 @@
 
 
 ##### 1. Aşağıdakı linkləri oxuyun:
+https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/namespaces<br />
+https://www.programiz.com/csharp-programming/namespaces<br />
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers<br />
 https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/internal<br />
 https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected-internal<br />
